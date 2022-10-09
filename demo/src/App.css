@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.app {
+  margin: 8rem auto;
+  text-align: center;
+}
+.app button {
+  padding: .5rem;
+  background-color:rgb(141, 141, 241);
+  border-radius: 8px;
+}
+
+.app button:hover {
+  cursor: pointer;
+  background-color: skyblue;
+}
+
+.app input {
+  text-align:  center;
+  padding: 10px 30px;
+}
